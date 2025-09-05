@@ -56,6 +56,6 @@ README.md → Documentation
 
 ## Conclusion
 
-This task provided valuable hands-on experience in **Excel data cleaning, PivotTables, and visualization**. The Titanic dataset clearly shows how **gender, class, age, and wealth influenced survival rates**.
+This task provided valuable hands-on experience in **Excel data cleaning, Tables, and visualization**. The Titanic dataset clearly shows how **gender, class, age, and wealth influenced survival rates**.
 
 
