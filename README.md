@@ -34,9 +34,11 @@ Created PivotTables and Charts in Excel to analyze:
 
 1. **Overall Survival Count**
 2. **Survival by Gender**
-3. **Survival by Passenger Class**
-4. **Survival by Age Groups** (grouped into bins)
-5. **Fare vs Survival**
+<img width="656" height="572" alt="image" src="https://github.com/user-attachments/assets/86a3094a-df41-4fee-b5ba-c91358a8a8e2" />
+4. **Survival by Passenger Class**
+5. **Survival by Age Groups** (grouped into bins)
+   <img width="1436" height="482" alt="image" src="https://github.com/user-attachments/assets/dcffe3dc-9ce9-4aec-9539-cbcaa568244e" />
+
 
 Screenshots are included in the repository:
 
@@ -45,7 +47,8 @@ Screenshots are included in the repository:
 * Survival\_by\_Gender.png
 * Survival\_by\_Class.png
 * Survival\_by\_AgeGroup.png
-* Fare\_vs\_Survival.png
+
+
 
 ---
 
