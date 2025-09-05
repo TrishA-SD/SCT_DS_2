@@ -33,11 +33,14 @@ The dataset contains information about passengers aboard the Titanic:
 Created PivotTables and Charts in Excel to analyze:
 
 1. **Overall Survival Count**
-2. **Survival by Gender**
-<img width="656" height="572" alt="image" src="https://github.com/user-attachments/assets/86a3094a-df41-4fee-b5ba-c91358a8a8e2" />
+   <img width="1262" height="517" alt="image" src="https://github.com/user-attachments/assets/e9862d89-ac55-483a-8987-0d9c6279be6d" />
 
-3. **Survival by Passenger Class**
-4. **Survival by Age Groups** (grouped into bins)
+3. **Survival by Gender**
+   <img width="656" height="572" alt="image" src="https://github.com/user-attachments/assets/86a3094a-df41-4fee-b5ba-c91358a8a8e2" />
+
+4. **Survival by Passenger Class**
+
+5. **Survival by Age Groups** (grouped into bins)
    <img width="1436" height="482" alt="image" src="https://github.com/user-attachments/assets/dcffe3dc-9ce9-4aec-9539-cbcaa568244e" />
    
 
