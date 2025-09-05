@@ -49,8 +49,7 @@ Created PivotTables and Charts in Excel to analyze:
 
 ## Repository Contents
 
-Titanic\_EDA.xlsx → Excel file with cleaning + PivotTables
-Screenshots/ → Folder containing chart screenshots
+Titanic\_EDA.xlsx → Excel file with cleaning + Tables
 README.md → Documentation
 
 ---
