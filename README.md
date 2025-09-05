@@ -40,7 +40,8 @@ Created PivotTables and Charts in Excel to analyze:
 
 Screenshots are included in the repository:
 
-* Survival\_Count.png
+<img width="656" height="572" alt="image" src="https://github.com/user-attachments/assets/86a3094a-df41-4fee-b5ba-c91358a8a8e2" />
+
 * Survival\_by\_Gender.png
 * Survival\_by\_Class.png
 * Survival\_by\_AgeGroup.png
