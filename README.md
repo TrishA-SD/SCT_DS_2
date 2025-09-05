@@ -58,11 +58,4 @@ README.md → Documentation
 
 This task provided valuable hands-on experience in **Excel data cleaning, PivotTables, and visualization**. The Titanic dataset clearly shows how **gender, class, age, and wealth influenced survival rates**.
 
----
-
-👉 Attach 2–3 screenshots in the README (just like Task 01) to make it visually appealing.
-
----
-
-Would you like me to also **help you rewrite your LinkedIn post for Task 2** in the same polished tone as this README?
 
