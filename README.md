@@ -1,9 +1,3 @@
-Perfect ✨ thanks for sharing your **Task 01 README**. Since you want consistency, let’s make your **Task 02 README (Titanic EDA in Excel)** in the **same style**.
-
-Here’s a draft you can directly copy into your GitHub:
-
----
-
 # Task 02 – Titanic Dataset: Data Cleaning & Exploratory Data Analysis (EDA) 🛳️📊
 
 ## Objective
